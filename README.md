@@ -13,22 +13,22 @@ It focuses on exploring relationships between different car attributes such as h
 - **Data Cleaning**: Handling missing values and correcting data types.
 - **Feature Engineering**: Creating new meaningful attributes from the existing dataset.
 - **Exploratory Data Analysis (EDA)**: Using PySpark SQL and DataFrame operations to generate insights.
-- **Visualization**: (Optional if you added) Visual graphs and charts for better understanding (if done inside the notebook).
+- **Visualization**: Visual graphs and charts for better understanding.
 - **Performance Insights**: Analyzing how different factors like weight, horsepower, and cylinders affect miles per gallon (MPG).
 
 ## Technologies Used
 
 - Python 3.x
 - PySpark
-- Pandas (if used for minor steps)
+- Pandas 
 - Jupyter Notebook
 
 ## Setup Instructions
 
 1. **Clone the Repository**  
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Pardhasai7/Cars-Performance-Analysis_using_Pyspark.git
+cd Cars-Performance-Analysis_using_Pyspark
 ```
 
 2. **Install Dependencies**  
@@ -62,10 +62,6 @@ The **Auto MPG dataset** includes the following fields:
 - `car_name`: Name of the car
 
 (Source: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/auto+mpg))
-
-## Contributing
-
-Contributions are welcome! Feel free to open issues or submit pull requests for improvements.
 
 ## License
 
